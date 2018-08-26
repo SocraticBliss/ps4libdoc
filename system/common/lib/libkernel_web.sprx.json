@@ -5286,7 +5286,7 @@
               "id": 11139308573975767562,
               "hex_id": "9A96C6212349EA0A",
               "encoded_id": "mpbGISNJ6go",
-              "name": null
+              "name": "sceKernelGetSystemExVersion"
             },
             {
               "id": 11213052385537240634,
@@ -6413,7 +6413,7 @@
               "id": 17382360521874912791,
               "hex_id": "F13A8CCC8820B617",
               "encoded_id": "8TqMzIggthc",
-              "name": null
+              "name": "sceKernelIccGetErrLog"
             }
           ]
         },

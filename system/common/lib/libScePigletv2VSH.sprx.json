@@ -1866,7 +1866,7 @@
               "id": 7048573472181299101,
               "hex_id": "61D1903A5E9BA79D",
               "encoded_id": "YdGQOl6bp50",
-              "name": null
+              "name": "glInsertEventMarkerColorSCE"
             },
             {
               "id": 8179842123975550465,
@@ -1878,7 +1878,7 @@
               "id": 9119444422518643728,
               "hex_id": "7E8EC662A9241C10",
               "encoded_id": "fo7GYqkkHBA",
-              "name": null
+              "name": "glPushGroupMarkerEXT"
             },
             {
               "id": 11347956907827511619,
@@ -1890,19 +1890,19 @@
               "id": 14080099007907342952,
               "hex_id": "C3668F72B8A5AA68",
               "encoded_id": "w2aPcrilqmg",
-              "name": null
+              "name": "glInsertEventMarkerEXT"
             },
             {
               "id": 14241516354867488564,
               "hex_id": "C5A407AB82CAE734",
               "encoded_id": "xaQHq4LK5zQ",
-              "name": null
+              "name": "glPushGroupMarkerColorSCE"
             },
             {
               "id": 15924927710796039244,
               "hex_id": "DD00B5610BC5C44C",
               "encoded_id": "3QC1YQvFxEw",
-              "name": null
+              "name": "glPopGroupMarkerEXT"
             }
           ]
         }

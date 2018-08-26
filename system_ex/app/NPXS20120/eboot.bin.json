@@ -1157,7 +1157,7 @@
               "id": 1243554327088316369,
               "hex_id": "1141FE1264FFBFD1",
               "encoded_id": "EUH+EmT-v9E",
-              "name": null
+              "name": "_ZNK3sce4Json6String6lengthEv"
             }
           ]
         }
@@ -3579,7 +3579,7 @@
               "id": 2166346869363567800,
               "hex_id": "1E1068FFF8B1ECB8",
               "encoded_id": "HhBo--ix7Lg",
-              "name": null
+              "name": "sceShellCoreUtilStartPsNowGame"
             },
             {
               "id": 2968029567870389897,
@@ -3597,7 +3597,7 @@
               "id": 15061013542967908190,
               "hex_id": "D103780549F3175E",
               "encoded_id": "0QN4BUnzF14",
-              "name": null
+              "name": "sceShellCoreUtilDoFsck"
             },
             {
               "id": 15216877668033365007,
@@ -3609,7 +3609,7 @@
               "id": 15467283158944275548,
               "hex_id": "D6A6D41579415C5C",
               "encoded_id": "1qbUFXlBXFw",
-              "name": null
+              "name": "sceShellCoreUtilGetFsckProgress"
             },
             {
               "id": 15910492941296434817,
@@ -3627,7 +3627,7 @@
               "id": 17715987784850356940,
               "hex_id": "F5DBD506E92A3ACC",
               "encoded_id": "9dvVBukqOsw",
-              "name": null
+              "name": "sceShellCoreUtilStopPsNowGame"
             },
             {
               "id": 18029415815953292409,

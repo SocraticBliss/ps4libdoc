@@ -15499,13 +15499,13 @@
               "id": 2708216456432595588,
               "hex_id": "25958484B4883284",
               "encoded_id": "JZWEhLSIMoQ",
-              "name": null
+              "name": "__atomic_is_lock_free"
             },
             {
               "id": 5338638490954685440,
               "hex_id": "4A16A76C1594DC00",
               "encoded_id": "ShanbBWU3AA",
-              "name": null
+              "name": "_Thrd_start_with_name_attr"
             },
             {
               "id": 8984779323124875126,
@@ -15517,13 +15517,13 @@
               "id": 9424511238872535211,
               "hex_id": "82CA9709DEAC90AB",
               "encoded_id": "gsqXCd6skKs",
-              "name": null
+              "name": "_Thrd_start_with_attr"
             },
             {
               "id": 13504971577369471601,
               "hex_id": "BB6B4C18E2DAAA71",
               "encoded_id": "u2tMGOLaqnE",
-              "name": null
+              "name": "_ZSt14_Atomic_assertPKcS0_"
             }
           ]
         },

@@ -727,7 +727,7 @@
               "id": 15947895710488732131,
               "hex_id": "DD524EA732A821E3",
               "encoded_id": "3VJOpzKoIeM",
-              "name": null
+              "name": "sceCameraSetTrackerMode"
             }
           ]
         }
@@ -1656,7 +1656,7 @@
               "id": 13504971577369471601,
               "hex_id": "BB6B4C18E2DAAA71",
               "encoded_id": "u2tMGOLaqnE",
-              "name": null
+              "name": "_ZSt14_Atomic_assertPKcS0_"
             }
           ]
         }
