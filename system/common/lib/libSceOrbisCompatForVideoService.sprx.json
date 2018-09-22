@@ -3490,25 +3490,25 @@
               "id": 3363007633428342925,
               "hex_id": "2EABCD9FE76C688D",
               "encoded_id": "LqvNn+dsaI0",
-              "name": null
+              "name": "sceVideoCoreSetAudioMute"
             },
             {
               "id": 6531766811046236247,
               "hex_id": "5AA57F4ED018D057",
               "encoded_id": "WqV-TtAY0Fc",
-              "name": null
+              "name": "sceVideoCoreChangeDisplaySize"
             },
             {
               "id": 12716451375841050406,
               "hex_id": "B079E926D4887F26",
               "encoded_id": "sHnpJtSIfyY",
-              "name": null
+              "name": "sceVideoCoreSetAudioVolume"
             },
             {
               "id": 18252718267377457256,
               "hex_id": "FD4EAE8EA0511868",
               "encoded_id": "-U6ujqBRGGg",
-              "name": null
+              "name": "sceVideoCorePlayControl"
             }
           ]
         }

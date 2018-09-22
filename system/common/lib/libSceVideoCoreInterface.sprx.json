@@ -30,7 +30,7 @@
               "id": 161429968943691365,
               "hex_id": "023D83B392FDB665",
               "encoded_id": "Aj2Ds5L9tmU",
-              "name": null
+              "name": "sceVideoCoreInterfaceMainLoop"
             },
             {
               "id": 252585207485240820,
@@ -48,7 +48,7 @@
               "id": 851520409299583544,
               "hex_id": "0BD1354CFB4C0238",
               "encoded_id": "C9E1TPtMAjg",
-              "name": null
+              "name": "sceVideoCoreInterfaceLoadModule"
             },
             {
               "id": 995980637266428771,
@@ -72,7 +72,7 @@
               "id": 1828076387413242423,
               "hex_id": "195EA1C9EE0BB237",
               "encoded_id": "GV6hye4Lsjc",
-              "name": null
+              "name": "sceVideoCoreInterfaceOpenCanvas"
             },
             {
               "id": 2293818652715233574,

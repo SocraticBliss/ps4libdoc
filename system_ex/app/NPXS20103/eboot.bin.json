@@ -6209,13 +6209,13 @@
               "id": 8334246427380641526,
               "hex_id": "73A930F80E976EF6",
               "encoded_id": "c6kw+A6XbvY",
-              "name": null
+              "name": "sceVideoCoreGenerateThumbnail"
             },
             {
               "id": 16897473077518738019,
               "hex_id": "EA7FE23CC33B2263",
               "encoded_id": "6n-iPMM7ImM",
-              "name": null
+              "name": "sceVideoCoreGetThumbnail"
             }
           ]
         }

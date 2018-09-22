@@ -62,7 +62,7 @@
               "id": 1713242090515271647,
               "hex_id": "17C6A89AAB690FDF",
               "encoded_id": "F8aomqtpD98",
-              "name": null
+              "name": "sceVisionManagerRequestFindUser"
             },
             {
               "id": 1763964878508839204,
@@ -98,13 +98,13 @@
               "id": 2887922431560018370,
               "hex_id": "2813F626900469C2",
               "encoded_id": "KBP2JpAEacI",
-              "name": null
+              "name": "sceVisionManagerCancelRequest"
             },
             {
               "id": 2916958990517778811,
               "hex_id": "287B1EBF4631B97B",
               "encoded_id": "KHsev0YxuXs",
-              "name": null
+              "name": "sceVisionManagerFinalize"
             },
             {
               "id": 3181318777728773113,
@@ -164,7 +164,7 @@
               "id": 4602606047204281230,
               "hex_id": "3FDFBDD074AD0B8E",
               "encoded_id": "P9+90HStC44",
-              "name": null
+              "name": "sceVisionManagerClose"
             },
             {
               "id": 4742049387756752867,
@@ -302,7 +302,7 @@
               "id": 14067831372193002556,
               "hex_id": "C33AFA1933A8F43C",
               "encoded_id": "wzr6GTOo9Dw",
-              "name": null
+              "name": "sceVisionManagerOpen"
             },
             {
               "id": 14894981051228468833,
@@ -332,7 +332,7 @@
               "id": 15511312190764366492,
               "hex_id": "D74340414AB23A9C",
               "encoded_id": "10NAQUqyOpw",
-              "name": null
+              "name": "sceVisionManagerRequestFindPad"
             },
             {
               "id": 15867816121478607956,
@@ -368,7 +368,7 @@
               "id": 17622043785141745656,
               "hex_id": "F48E1374FDC0F7F8",
               "encoded_id": "9I4TdP3A9-g",
-              "name": null
+              "name": "sceVisionManagerInitialize"
             },
             {
               "id": 17726608155816407400,

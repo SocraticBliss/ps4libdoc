@@ -128,25 +128,25 @@
               "id": 3363007633428342925,
               "hex_id": "2EABCD9FE76C688D",
               "encoded_id": "LqvNn+dsaI0",
-              "name": null
+              "name": "sceVideoCoreSetAudioMute"
             },
             {
               "id": 4426348159362301091,
               "hex_id": "3D6D8C32FAFE7CA3",
               "encoded_id": "PW2MMvr+fKM",
-              "name": null
+              "name": "sceVideoCoreSyncAddStream"
             },
             {
               "id": 6147110074352854682,
               "hex_id": "554EEC0B3906E69A",
               "encoded_id": "VU7sCzkG5po",
-              "name": null
+              "name": "sceVideoCoreAsyncAddStream"
             },
             {
               "id": 6531766811046236247,
               "hex_id": "5AA57F4ED018D057",
               "encoded_id": "WqV-TtAY0Fc",
-              "name": null
+              "name": "sceVideoCoreChangeDisplaySize"
             },
             {
               "id": 6706353557191037691,
@@ -158,7 +158,7 @@
               "id": 7152532562482855857,
               "hex_id": "6342E67847347FB1",
               "encoded_id": "Y0LmeEc0f7E",
-              "name": null
+              "name": "sceVideoCoreGenerateThumbnail2"
             },
             {
               "id": 7350895254015667630,
@@ -176,7 +176,7 @@
               "id": 8334246427380641526,
               "hex_id": "73A930F80E976EF6",
               "encoded_id": "c6kw+A6XbvY",
-              "name": null
+              "name": "sceVideoCoreGenerateThumbnail"
             },
             {
               "id": 8370377233455590534,
@@ -230,19 +230,19 @@
               "id": 11947644937356081352,
               "hex_id": "A5CE8FC4E99A78C8",
               "encoded_id": "pc6PxOmaeMg",
-              "name": null
+              "name": "sceVideoCoreLaunchVideoCore"
             },
             {
               "id": 12716451375841050406,
               "hex_id": "B079E926D4887F26",
               "encoded_id": "sHnpJtSIfyY",
-              "name": null
+              "name": "sceVideoCoreSetAudioVolume"
             },
             {
               "id": 13530920640010491747,
               "hex_id": "BBC77CA1D7D39763",
               "encoded_id": "u8d8odfTl2M",
-              "name": null
+              "name": "sceVideoCoreSetFullScreen"
             },
             {
               "id": 13562493152486345833,
@@ -254,19 +254,19 @@
               "id": 13966125215252658109,
               "hex_id": "C1D1A4E337C2B7BD",
               "encoded_id": "wdGk4zfCt70",
-              "name": null
+              "name": "sceVideoCoreGetThumbnail2"
             },
             {
               "id": 14137308308945821443,
               "hex_id": "C431CF011AE4DF03",
               "encoded_id": "xDHPARrk3wM",
-              "name": null
+              "name": "sceVideoCoreChangeSubtitle"
             },
             {
               "id": 15920931971170997979,
               "hex_id": "DCF283466ACE96DB",
               "encoded_id": "3PKDRmrOlts",
-              "name": null
+              "name": "sceVideoCoreChangeAudioStream"
             },
             {
               "id": 16862998911044483180,
@@ -278,25 +278,25 @@
               "id": 16897473077518738019,
               "hex_id": "EA7FE23CC33B2263",
               "encoded_id": "6n-iPMM7ImM",
-              "name": null
+              "name": "sceVideoCoreGetThumbnail"
             },
             {
               "id": 17174812570998274841,
               "hex_id": "EE5931098A43FB19",
               "encoded_id": "7lkxCYpD+xk",
-              "name": null
+              "name": "sceVideoCoreChangeHdcpSetting"
             },
             {
               "id": 18211650069756338506,
               "hex_id": "FCBCC73FBD8B614A",
               "encoded_id": "-LzHP72LYUo",
-              "name": null
+              "name": "sceVideoCoreSetInitialInfo"
             },
             {
               "id": 18252718267377457256,
               "hex_id": "FD4EAE8EA0511868",
               "encoded_id": "-U6ujqBRGGg",
-              "name": null
+              "name": "sceVideoCorePlayControl"
             }
           ]
         }

@@ -1299,7 +1299,7 @@
               "id": 2949776210739260637,
               "hex_id": "28EFB5D5C802ECDD",
               "encoded_id": "KO+11cgC7N0",
-              "name": null
+              "name": "sceNpSetGamePresenceOnline"
             },
             {
               "id": 3041593677929998727,
@@ -2452,7 +2452,7 @@
               "id": 2949776210739260637,
               "hex_id": "28EFB5D5C802ECDD",
               "encoded_id": "KO+11cgC7N0",
-              "name": null
+              "name": "sceNpSetGamePresenceOnline"
             }
           ]
         },
